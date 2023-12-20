@@ -7,3 +7,4 @@ El Niño phenomenon will lead to reduced rainfall in many regions of Indonesia, 
 Analyzing the influence of El Niño on rainfall in Indonesia by taking a sample of a past El Niño event
 
 ### Flowchart
+![elnino](https://github.com/agastiayudya/Identification-of-the-Strong-El-Nino-Effect/assets/96803882/508bc67a-4642-4c82-9a59-6a316bad67fc)
