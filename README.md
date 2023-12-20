@@ -4,6 +4,6 @@ El Niño is a climate phenomenon characterized by warmer-than-average sea surfac
 El Niño phenomenon will lead to reduced rainfall in many regions of Indonesia, with the extent of reduction depending on the location and intensity of the El Niño.
 
 ### Objectives
-Analyzing the influence of El Nino on rainfall in Indonesia by taking a sample of a past El Nino event
+Analyzing the influence of El Niño on rainfall in Indonesia by taking a sample of a past El Niño event
 
 ### Flowchart
