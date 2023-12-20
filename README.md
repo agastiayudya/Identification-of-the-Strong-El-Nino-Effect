@@ -1,3 +1,9 @@
-El-Nino merupakan fenomena global dari sistem interaksi laut dan atmosfer yang ditandai denganmemanasnya suhu muka laut di Pasifik Equator atau anomali suhu muka laut di daerah tersebut positif (lebih panas dari rata-ratanya). Pada saat yang bersamaan terjadi perubahan pola tekanan udara yang mempunyai dampak sangat luas dengan gejala yang berbeda-beda, baik bentuk dan intensitasnya.  
-  
-Fenomena El Nino secara umum akan menyebabkan curah hujan di sebagian besar wilayah Indonesia berkurang, besar pengurangannya tergantung dari lokasi dan intensitas El-Nino tersebut.
+### Project Background
+El Niño is a climate phenomenon characterized by warmer-than-average sea surface temperatures in the central and eastern equatorial Pacific Ocean, influencing weather patterns worldwide and often causing droughts, floods, and other extreme conditions.
+
+El Niño phenomenon will lead to reduced rainfall in many regions of Indonesia, with the extent of reduction depending on the location and intensity of the El Niño.
+
+### Objectives
+Analyzing the influence of El Nino on rainfall in Indonesia by taking a sample of a past El Nino event
+
+### Flowchart
